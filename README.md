@@ -11,4 +11,5 @@ MVC is used in many projects due to its architecture, which makes it possible to
 ## To start
 
 Change the access to the bank in the global variable BASE_URL in the config.php file.
+
 Check the .htacess file too, if you are not able to access the fourth line.
