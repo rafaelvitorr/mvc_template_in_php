@@ -10,6 +10,6 @@ MVC is used in many projects due to its architecture, which makes it possible to
 
 ## To start
 
-Change the bank in the config and BASE_URL file.
+Change the bank access in the config.php and BASE_URL file.
 
 Check the .htacess file too, if you are not able to access the fourth line.
