@@ -1,0 +1,95 @@
+body > .grid {
+    height: 100%;
+  }
+  .columnLogin {
+    max-width: 450px !important;
+  }
+  .imgLogo {
+      width: 20rem !important;
+  }
+
+  .bodColor {
+      background-color: #ebebeb !important;
+  }
+  .contentDivPage {
+    margin: 6rem;
+    padding: 3rem;
+    border: 1px solid rgba(34,36,38,.15);
+    box-shadow: 0 1px 2px 0 rgba(34,36,38,.15);
+    border-radius: 10px;
+    background-color: #fff;
+}
+.flex {
+  display: flex; 
+}
+.alingBaseline{
+  align-items: baseline;
+}
+.textGrid{
+  display: grid;
+  margin: auto 1rem;
+}
+.marginZero{
+  margin: 0 !important;
+}
+.cardWidth{
+  width: 25rem !important;
+}
+.cardMargin{
+  margin: auto !important;
+}
+.backgroundHeader {
+  background-color: #ebebeb8f;
+  padding: 1rem;
+  border-radius: 10px;
+}
+.backgroundWhite{
+  background-color: #fff !important;
+}
+.fontWhiteColor{
+  color: #fff !important;
+}
+.borderLineWhite{
+  border: 1px solid #fff;
+  border-radius: 0.5em;
+}
+.gradientBackgroundWhite{
+  background: rgb(2,0,36);
+  background: linear-gradient(21deg, rgba(2,0,36,0) 0%, rgba(9,9,121,0.08587184873949583) 31%, rgba(255,255,255,0.8953956582633054) 114%);
+}
+.p03{
+  padding: 0.3em;
+}
+.pt05{
+  padding-top:0.5em!important;
+}
+.shadowDefault {
+  -moz-box-shadow:    inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow:         inset 0 0 10px #000000;
+}
+.justifyCenter{
+  justify-content: center;
+  
+}
+.corretionH2Card{
+  margin-bottom: 0;
+  max-width: 80%
+}
+.alignItemsHeader{
+  display: flex !important;
+  justify-content: space-between !important;
+}
+.descrCard{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: start !important;
+}
+.alignValues{
+  display: flex !important;
+    flex-direction: column !important;
+    align-items: start !important;
+}
+.whidthSizeCards{
+  width: 252px !important;
+}
