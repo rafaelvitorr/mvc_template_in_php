@@ -8,3 +8,8 @@
 MVC is used in many projects due to its architecture, which makes it possible to divide the project into very well defined layers. Each of them, Model, Controller and View, executes what is defined and nothing more than that.
 
 
+## To start
+
+Change the bank in the config and BASE_URL file.
+
+Check the .htacess file too, if you are not able to access the fourth line.
