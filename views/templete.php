@@ -2,7 +2,7 @@
 <html lang="pt-br">
 
     <head>
-        <title>Tamplete MVC- PHP</title>
+        <title>template MVC- PHP</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/Semantic-UI-CSS-master/semantic.min.css">

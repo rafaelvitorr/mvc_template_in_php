@@ -1,5 +1,5 @@
 
-# Tamplete MVC in PHP
+# template MVC in PHP
 
  If you are looking for a how to assemble an MVC structure, or looking for an easy to use structure. :+1:
 
